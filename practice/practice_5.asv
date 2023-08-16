@@ -1,0 +1,5 @@
+I=imread('embryo.jpg');
+figure,
+subplot(2,2,1);
+subimage(I);
+title('Original Image');
